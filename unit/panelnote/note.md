@@ -1,15 +1,15 @@
 
 
-| [.header] &nbsp &nbspTime&nbsp&nbsp |[.header]|
+| [.header] Start Time |[.header]|
 | --- | --- |
 | [.header] 14:30 | Introduction|
-| [.header] 14:45 | [.track] Lab 01: Building and publishing a course &nbsp &nbsp |
+| [.header] 14:45 | [.track] Lab 01: Building and publishing a course |
 | [.header] 15:15: | Course structure |
 | [.header] 15:25 | [.track] Lab 02: Editing a course |
 | [.header] 15:50 | Colours & Themes |
 | [.header] 16:00 | [.track] Lab 03: Build your own Theme |
 | [.header] 16:30 | Close |
-|  | [.track] Lab 04: Publish your own Reader |
+| [.header] | [.track] Lab 04: Publish your own Reader |
 
 <style>
   :root {

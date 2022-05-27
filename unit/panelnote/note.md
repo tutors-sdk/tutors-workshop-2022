@@ -1,6 +1,6 @@
 
 
-| [.header] Time |[.header]|
+| **&nbsp****&nbsp**[.header] Time**&nbsp****&nbsp** |[.header]|
 | --- | --- |
 | [.header] 14:30 | Introduction|
 | [.header] 14:45 | [.track] Lab 01: Building and publishing a course |

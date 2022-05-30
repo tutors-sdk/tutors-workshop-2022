@@ -2,9 +2,9 @@
 
 icon: 
 
-  type: el:edit
+  type: uil:edit
 
-  color: Coral
+  color: Salmon
 
 ---
 

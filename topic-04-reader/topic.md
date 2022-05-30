@@ -2,9 +2,9 @@
 
 icon: 
 
-  type: material-symbols:component-exchange
+  type: uil:cog
 
-  color: DarkSlateBlue
+  color: Salmon
 
 ---
 

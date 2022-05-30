@@ -2,9 +2,9 @@
 
 icon: 
 
-  type: codicon:file-code
+  type: uil:wrench
 
-  color: DarkOrange
+  color: Salmon
 
 ---
 

@@ -4,7 +4,7 @@ icon:
 
   type: uil:create-dashboard
 
-  color: DarkSalmon
+  color: Salmon
 
 ---
 

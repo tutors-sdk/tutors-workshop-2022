@@ -6,4 +6,4 @@ icon:
 ---
 Editing a Course
 
-Editing and repiublishing a course
+Editing and republishing a course

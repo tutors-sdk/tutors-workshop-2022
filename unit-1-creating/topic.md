@@ -1,1 +1,1 @@
-# Creating, Editing & Publishing
+# Creating & Publishing
